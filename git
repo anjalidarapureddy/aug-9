@@ -1,0 +1,12 @@
+configuration commands
+// git config --global user.name "username" 
+//git config --global user.email "mailid"
+//git config --list
+stages
+branches
+cherrypick
+stash
+reset
+revert
+ignore
+tag
