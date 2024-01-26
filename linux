@@ -1,0 +1,13 @@
+pwd - current path
+ls -list
+ls -a hidden files
+ls -l list in long list
+ls -lr reverse order, ls -li index
+ls -l | grep ^d
+create files (cat,touch,vi)and directories(mkdir,mkdir -p)
+copy and move    pwd > path
+grep
+filter
+ls -l | grep ^d 
+history
+clear
