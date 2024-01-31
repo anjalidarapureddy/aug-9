@@ -10,3 +10,6 @@ reset
 revert
 ignore
 tag
+git log --oneline --graph --all
+alias <shortname>='long command'
+git config --global --edit
